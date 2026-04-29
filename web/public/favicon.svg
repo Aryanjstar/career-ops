@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="7" fill="#0a0a0a"/>
+  <rect x="1" y="1" width="30" height="30" rx="6" stroke="#2563eb" stroke-width="1.5" fill="none"/>
+  <!-- Briefcase body -->
+  <rect x="6" y="12" width="20" height="13" rx="2.5" fill="#2563eb"/>
+  <!-- Briefcase handle -->
+  <path d="M12 12V9.5a2.5 2.5 0 0 1 2.5-2.5h3a2.5 2.5 0 0 1 2.5 2.5V12" stroke="#2563eb" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+  <!-- Gear/automation symbol -->
+  <circle cx="16" cy="18" r="3.2" fill="#0a0a0a"/>
+  <circle cx="16" cy="18" r="1.6" fill="#3b82f6"/>
+  <!-- Gear teeth -->
+  <rect x="15.25" y="13.5" width="1.5" height="2" rx="0.5" fill="#0a0a0a"/>
+  <rect x="15.25" y="21" width="1.5" height="2" rx="0.5" fill="#0a0a0a"/>
+  <rect x="11.5" y="17.25" width="2" height="1.5" rx="0.5" fill="#0a0a0a"/>
+  <rect x="19" y="17.25" width="2" height="1.5" rx="0.5" fill="#0a0a0a"/>
+  <!-- Lightning bolt (automation) -->
+  <path d="M14.8 16.5l1.8-2.8h1.2l-1 2h1.5l-2.5 3.6.5-2.2h-1.5z" fill="#fbbf24"/>
+</svg>
